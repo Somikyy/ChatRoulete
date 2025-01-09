@@ -1,4 +1,4 @@
-# Textual Chatroulette
+# Chat Chatroulette
 
 ## Project Description
 
