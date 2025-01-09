@@ -1,4 +1,4 @@
-# Chat Chatroulette
+# Chatroulette
 
 ## Project Description
 
