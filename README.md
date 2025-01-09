@@ -29,8 +29,3 @@ Textual Chatroulette is a web application for anonymous real-time communication.
 - Provide anonymous and secure communication to users.
 - Create a simple and convenient platform for real-time communication.
 - Use Redis for efficient message delivery and chat synchronization via the Discord bot.
-
-## Developers:
-This project is being developed by two developers:
-- [Somikyy's GitHub]([https://github.com/developer1](https://github.com/Somikyy))
-- [Cbaie9 GitHub]([https://github.com/developer2](https://github.com/cbaie9))
